@@ -1,0 +1,18 @@
+*{
+    margin: auto;
+    padding: 0;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.cont{
+    background: rgb(141, 97, 143);
+}
+form input{
+background:rgb(182, 234, 243);
+}
+form label{
+    display: flex;
+}
+    
